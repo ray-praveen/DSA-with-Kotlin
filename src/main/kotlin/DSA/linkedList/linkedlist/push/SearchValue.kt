@@ -1,6 +1,4 @@
-package DSA.linkedList.linkedlist
-
-import kotlin.math.truncate
+package DSA.linkedList.linkedlist.push
 
 
 data class Node6<T>(

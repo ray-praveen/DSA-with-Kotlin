@@ -1,4 +1,4 @@
-package DSA.linkedList.linkedlist
+package DSA.linkedList.linkedlist.push
 
 // FInd Head After Push
 

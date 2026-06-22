@@ -1,4 +1,4 @@
-package DSA.linkedList.linkedlist
+package DSA.linkedList.linkedlist.push
 
 data class Node3<T>(
     var value: T,
