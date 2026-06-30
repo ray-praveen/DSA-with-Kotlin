@@ -69,7 +69,7 @@ class InsertAfterHead<T>{
 
         afterNode.next = newNode
 
-        size
+        size++
 
         return newNode
 
